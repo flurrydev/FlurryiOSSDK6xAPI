@@ -21,7 +21,7 @@ var protocol_flurry_ad_delegate_p =
     [ "spaceDidReceiveAd:", "protocol_flurry_ad_delegate-p.html#ab3aab75fc98595df6dfff08cb4762c76", null ],
     [ "spaceDidReceiveClick:", "protocol_flurry_ad_delegate-p.html#a0e587dc73e939ddeb1fafd599c5100a6", null ],
     [ "spaceDidRender:interstitial:", "protocol_flurry_ad_delegate-p.html#a4556ec4b408f3ebb3a0fd5e558da66a8", null ],
-    [ "spaceShouldDisplay:forType:", "protocol_flurry_ad_delegate-p.html#addae6caf52d7f5e534c1b6b5d82ed43a", null ],
+    [ "spaceShouldDisplay:forType:", "protocol_flurry_ad_delegate-p.html#ae8a35856ece8780b0f241ecedf1a4047", null ],
     [ "spaceShouldDisplay:interstitial:", "protocol_flurry_ad_delegate-p.html#a697ef9711a40d6bc3a175f1f27dca051", null ],
     [ "spaceWillCollapse:", "protocol_flurry_ad_delegate-p.html#a8f1c3c434dd276551d4fb1357be268b6", null ],
     [ "spaceWillDismiss:interstitial:", "protocol_flurry_ad_delegate-p.html#ae110ac801011a97400b31643fede7007", null ],
