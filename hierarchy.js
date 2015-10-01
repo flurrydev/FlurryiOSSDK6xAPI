@@ -11,7 +11,8 @@ var hierarchy =
       [ "FlurryAdTargeting", "interface_flurry_ad_targeting.html", null ],
       [ "FlurryImageShareParameters", "interface_flurry_image_share_parameters.html", null ],
       [ "FlurryTextShareParameters", "interface_flurry_text_share_parameters.html", null ],
-      [ "FlurryTumblr", "interface_flurry_tumblr.html", null ]
+      [ "FlurryTumblr", "interface_flurry_tumblr.html", null ],
+      [ "FlurryWatch", "interface_flurry_watch.html", null ]
     ] ],
     [ "<NSObject>", null, [
       [ "<FlurryAdBannerDelegate>", "protocol_flurry_ad_banner_delegate-p.html", null ],
@@ -19,7 +20,6 @@ var hierarchy =
       [ "<FlurryAdInterstitialDelegate>", "protocol_flurry_ad_interstitial_delegate-p.html", null ],
       [ "<FlurryAdNativeDelegate>", "protocol_flurry_ad_native_delegate-p.html", null ],
       [ "<FlurryDelegate>", "protocol_flurry_delegate-p.html", null ],
-      [ "<FlurryTumblrDelegate>", "protocol_flurry_tumblr_delegate-p.html", null ],
       [ "<IFlurryTumblrShareParameters>", "protocol_i_flurry_tumblr_share_parameters-p.html", [
         [ "FlurryImageShareParameters", "interface_flurry_image_share_parameters.html", null ],
         [ "FlurryTextShareParameters", "interface_flurry_text_share_parameters.html", null ]
